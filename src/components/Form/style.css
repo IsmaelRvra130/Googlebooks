@@ -1,0 +1,26 @@
+.form-group{
+    width: 500px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 450px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+
+.form-border{
+    background-color: rgb(172, 167, 167);
+    width:660px;
+    height: 150px;
+    padding:12px;
+    opacity: .8;
+    border-color: black;
+    border-width: 5px;
+    border-style: double;
+    box-shadow: 3px 3px 2px 2px;
+}
+
+.btn-success{
+    border-color:black;
+    border-width:5px;
+    border-style: double;
+    border-end-end-radius: 5px;
+}
